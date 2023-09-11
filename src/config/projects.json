@@ -1,0 +1,19 @@
+{
+    "projects" : [
+        {
+            "title": "Farm 1",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur molestias fuga itaque. Distinctio expedita atque pariatur aliquam consectetur, quos, iusto quam non quaerat placeat aspernatur maxime. Ratione reprehenderit harum aut ullam reiciendis suscipit, similique, sapiente incidunt sit architecto tempora, illum assumenda commodi hic repellendus ducimus quos blanditiis voluptas quam! Enim?",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm 2",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur molestias fuga itaque. Distinctio expedita atque pariatur aliquam consectetur, quos, iusto quam non quaerat placeat aspernatur maxime. Ratione reprehenderit harum aut ullam reiciendis suscipit, similique, sapiente incidunt sit architecto tempora, illum assumenda commodi hic repellendus ducimus quos blanditiis voluptas quam! Enim?",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm 3",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur molestias fuga itaque. Distinctio expedita atque pariatur aliquam consectetur, quos, iusto quam non quaerat placeat aspernatur maxime. Ratione reprehenderit harum aut ullam reiciendis suscipit, similique, sapiente incidunt sit architecto tempora, illum assumenda commodi hic repellendus ducimus quos blanditiis voluptas quam! Enim?",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
